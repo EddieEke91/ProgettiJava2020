@@ -1,0 +1,2 @@
+class OutOfRangeException extends Exception{ 
+}
